@@ -17,6 +17,7 @@ public class Addition {
             y = carry << 1;
         }
         System.out.print("Sum: "+x); 
-		System.out.print("\n");     	
+		System.out.print("\n");     
+		System.out.println("");
 	}	
 }
